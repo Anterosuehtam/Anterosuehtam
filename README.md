@@ -2,11 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
+<p align="center"> 
   Olá! Meu nome é Matheus Antero, tenho 21 anos e sou natural de São Paulo.
 Desde os 17 anos estou imerso no mundo da tecnologia, quando concluí o curso técnico em Desenvolvimento de Sistemas pela ETEC Sapopemba.
 Atualmente, curso Análise e Desenvolvimento de Sistemas na FECAP e continuo expandindo meus conhecimentos em programação por meio de cursos extracurriculares e projetos práticos.
