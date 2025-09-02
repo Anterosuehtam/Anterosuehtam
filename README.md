@@ -16,7 +16,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na FECAP e continuo exp
 
 <p align="left">
   <a href="antero.bustt@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=CE4630&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=CE4630&logo=gmail&logoColor=white&link=antero.bustt@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/matheus-antero-05646a225" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://wa.me/5511985096930" title="WhatsApp">
