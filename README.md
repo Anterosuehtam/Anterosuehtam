@@ -5,9 +5,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="start-left"> 
-  Olá! Meu nome é Matheus Antero, tenho 21 anos e sou natural de São Paulo.
-Desde os 17 anos estou imerso no mundo da tecnologia, quando concluí o curso técnico em Desenvolvimento de Sistemas pela ETEC Sapopemba.
-Atualmente, curso Análise e Desenvolvimento de Sistemas na FECAP e continuo expandindo meus conhecimentos em programação por meio de cursos extracurriculares e projetos práticos.
+  Olá! Sou o Matheus Antero, um desenvolvedor de São Paulo apaixonado por tecnologia e em constante aprendizado. Minha jornada na área começou aos 17 anos com um técnico em Desenvolvimento de Sistemas pela ETEC. Hoje, sou formado em Análise e Desenvolvimento de Sistemas pela FECAP e continuo aprofundando minha base teórica cursando minha segunda graduação em Ciência da Computação.
+
+Atualmente, meu foco principal de estudo e desenvolvimento está no ecossistema Java, com ênfase na criação de aplicações com Spring Boot e no gerenciamento de bancos de dados relacionais (MySQL / SQL). Gosto de atuar em projetos de ponta a ponta, integrando desde o back-end e APIs até o front-end (como React) e explorando soluções de análise de dados (com Python e Power BI).
 </p>
 
 <p align="left">
