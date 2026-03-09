@@ -45,8 +45,9 @@ Atualmente, meu foco principal de estudo e desenvolvimento está no ecossistema 
 ### 📊 Estatísticas
 
 <p align="left">
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats-three-zeta-86.vercel.app/api?username=Anterosuehtam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1" />
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats-three-zeta-86.vercel.app/api/top-langs/?username=Anterosuehtam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" />
+  <img align="left" alt="GitHub Stats" height="190" style="padding-right: 10px;" src="https://github-readme-stats-three-zeta-86.vercel.app/api?username=Anterosuehtam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=450&v=1" />
+  
+  <img align="left" alt="Tecnologias" height="190" src="https://github-readme-stats-three-zeta-86.vercel.app/api/top-langs/?username=Anterosuehtam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=450&v=1" />
 </p>
 
 <br clear="both">
@@ -54,6 +55,6 @@ Atualmente, meu foco principal de estudo e desenvolvimento está no ecossistema 
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img align="left" alt="GitHub Streak" height="170" style="padding-right: 10px;" src="https://streak-stats.demolab.com?user=Anterosuehtam&theme=tokyonight&locale=pt_BR" />
+    <img align="left" alt="GitHub Streak" height="190" style="padding-right: 10px;" src="https://streak-stats.demolab.com?user=Anterosuehtam&theme=tokyonight&locale=pt_BR&card_width=450" />
   </a>
 </p>
