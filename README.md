@@ -52,8 +52,8 @@ Atualmente, meu foco principal de estudo e desenvolvimento está no ecossistema 
 <br clear="both">
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" height="170" src="https://streak-stats.demolab.com?user=Anterosuehtam&theme=tokyonight&locale=pt_BR" />
+    <img align="left" alt="GitHub Streak" height="170" style="padding-right: 10px;" src="https://streak-stats.demolab.com?user=Anterosuehtam&theme=tokyonight&locale=pt_BR" />
   </a>
 </p>
