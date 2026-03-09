@@ -131,5 +131,14 @@ Atualmente, meu foco principal de estudo e desenvolvimento está no ecossistema 
       src="https://github-readme-stats-three-zeta-86.vercel.app/api/top-langs/?username=Anterosuehtam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1"
   />
 
+  <a href="https://git.io/streak-stats">
+  <img 
+    align="center" 
+    alt="GitHub Streak" 
+    height="170" 
+    src="https://streak-stats.demolab.com?user=Anterosuehtam&theme=tokyonight&locale=pt_BR" 
+  />
+</a>
+
 </p>
 
