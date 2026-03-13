@@ -45,13 +45,13 @@ Atualmente, meu foco principal de estudo e desenvolvimento está no ecossistema 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img alt="GitHub Stats" height="190" style="padding-right: 10px;" src="https://github-readme-stats-three-zeta-86.vercel.app/api?username=Anterosuehtam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=395&v=4" />
-  <img alt="Tecnologias" height="190" src="https://github-readme-stats-three-zeta-86.vercel.app/api/top-langs/?username=Anterosuehtam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=395&v=4" />
+  <img alt="GitHub Stats" height="190" style="padding-right: 10px;" src="https://github-readme-stats-three-zeta-86.vercel.app/api?username=Anterosuehtam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&card_width=395&v=3" />
+  <img alt="Tecnologias" height="190" src="https://github-readme-stats-three-zeta-86.vercel.app/api/top-langs/?username=Anterosuehtam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=395&v=3" />
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" height="190" src="https://streak-stats.demolab.com?user=Anterosuehtam&theme=tokyonight&locale=pt_BR&card_width=395&v=4" />
+    <img alt="GitHub Streak" height="190" src="https://streak-stats.demolab.com?user=Anterosuehtam&theme=tokyonight&locale=pt_BR&card_width=395&v=3" />
   </a>
 </p>
   
